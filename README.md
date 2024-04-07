@@ -1,3 +1,2 @@
-# 彭在新自學Stanford的Python課程
-教授好!\
-這些作品成果，是我利用學測完的空檔時間，去網路上自學Stanford的Python課程
+#Self-learning Stanford's Python courses
+The attached files are the mini-projects that I accomplished for the online courses of Standford's Python which I self-learned right after the College Entrance Exam. The purposes of the self-traning are to strenthen my computer skills and fulfill my enthusiam for scientific curiosity. During the self-study, I acquired some abilities regarding how to use the Internet resources to inquire  certain topics. I truly believe it's an important preparation for equipping myself for university study.     
